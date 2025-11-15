@@ -111,10 +111,8 @@ export default function ScheduleScreen() {
             <View style={styles.infoContent}>
               <Text style={styles.infoTitle}>Informações Importantes</Text>
               <Text style={styles.infoText}>
-                • Chegue com 10 minutos de antecedência{'
-'}
-                • Traga os documentos do veículo{'
-'}
+                • Chegue com 10 minutos de antecedência{'\n'}
+                • Traga os documentos do veículo{'\n'}
                 • Em caso de atraso, entre em contato
               </Text>
             </View>
